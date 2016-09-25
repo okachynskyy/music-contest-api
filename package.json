@@ -1,0 +1,28 @@
+{
+  "name": "music-contest-api",
+  "version": "1.0.0",
+  "description": "API for music contest web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okachynskyy/music-contest-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "Oleksiy Kachynskyy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okachynskyy/music-contest-api/issues"
+  },
+  "homepage": "https://github.com/okachynskyy/music-contest-api#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
